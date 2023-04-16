@@ -1,5 +1,5 @@
-                                     Hi there 👋, I'm Victor Wambua
-________________________________________________________________________________________________________________________________
+                                 Hi there 👋, I'm Victor Wambua
+                                 ------------------------------   
           A Mathematics and Computer science enthusiats with a background as a Full-Stack Developer.            
 
 <!--
