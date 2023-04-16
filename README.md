@@ -12,4 +12,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on any payment integration apps
 - 🤔 I regularly write articles for ngongroad.org and nrcfkenya.org
 - 💬 Ask me about WordPress, PHP, Laravel and SEO
-- 📫 How to reach me: victorwambua004@gmail.com
+- 📫 How to reach me: victorwambua004@gmail.com  |  www.linkedin.com/in/
+victor-wambua
+
+
