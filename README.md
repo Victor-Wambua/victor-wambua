@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="I build the systems behind the money. 1,500+ contributions this year, 220+ pull requests merged, 930+ automated tests on one app, 160+ written design decisions.">
+<img src="assets/header-2.svg" width="100%" alt="I build the systems behind the money. 1,500+ contributions this year, 220+ pull requests merged, 930+ automated tests on one app, 160+ written design decisions.">
 
 > Most of my code is private because it handles real people's money or belongs to clients. The cards below describe what each project does.
 
