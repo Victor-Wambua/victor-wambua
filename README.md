@@ -1,16 +1,16 @@
-<img src="assets/header-2.svg" width="100%" alt="I build the systems behind the money. 1,500+ contributions this year, 220+ pull requests merged, 930+ automated tests on one app, 160+ written design decisions.">
+<img src="assets/header-3.svg" width="100%" alt="I build the systems behind the money: payments, Salesforce, finance systems, automation and AI.">
 
 > Most of my code is private because it handles real people's money or belongs to clients. The cards below describe what each project does.
 
 ## Selected work
 
 <p>
-<img src="assets/loan-portal.svg" width="49%" alt="Loan Portal: a full loan book on Google Apps Script. Live.">
-<img src="assets/approval-portal.svg" width="49%" alt="Approval Portal: payment requests and approvals for Google Workspace. Pilot.">
+<img src="assets/loan-portal-2.svg" width="49%" alt="Loan Portal: a full loan book on Google Apps Script. Live.">
+<img src="assets/approval-portal-2.svg" width="49%" alt="Approval Portal: payment requests and approvals for Google Workspace. Pilot.">
 </p>
 <p>
-<img src="assets/schoolpress.svg" width="49%" alt="SchoolPress: a reusable WordPress block theme for schools.">
-<img src="assets/ozon-fix.svg" width="49%" alt="Ozon Fix: a lead-generation WordPress theme for a refrigeration firm.">
+<img src="assets/schoolpress-2.svg" width="49%" alt="SchoolPress: a reusable WordPress block theme for schools.">
+<img src="assets/ozon-fix-2.svg" width="49%" alt="Ozon Fix: a lead-generation WordPress theme for a refrigeration firm.">
 </p>
 
 ## Salesforce for a nonprofit (NPSP)
@@ -18,12 +18,12 @@
 I build and run the Salesforce org for a children's charity in Kenya and its US fundraising arm. I've merged 69 pull requests there. Every change gets a test deploy in CI before merge, then deploys to the sandbox automatically.
 
 <p>
-<img src="assets/stripe-salesforce.svg" width="49%" alt="Stripe to Salesforce: card payments close the right NPSP donation and send the right thank-you email. Sandbox, phase 0.">
-<img src="assets/staff-attendance.svg" width="49%" alt="Staff Attendance and Staff Portal: check in and out with location checks, corrections with admin approval.">
+<img src="assets/stripe-salesforce-2.svg" width="49%" alt="Stripe to Salesforce: card payments close the right NPSP donation and send the right thank-you email. Sandbox, phase 0.">
+<img src="assets/staff-attendance-2.svg" width="49%" alt="Staff Attendance and Staff Portal: check in and out with location checks, corrections with admin approval.">
 </p>
 <p>
-<img src="assets/donor-comms.svg" width="49%" alt="Sponsor and donor emails: bulk email with test mode, scheduled sends, branded unsubscribe pages.">
-<img src="assets/npsp-health.svg" width="49%" alt="NPSP data and org health: nightly DLRS roll-ups, donation and GAU automation, CI checks.">
+<img src="assets/donor-comms-2.svg" width="49%" alt="Sponsor and donor emails: bulk email with test mode, scheduled sends, branded unsubscribe pages.">
+<img src="assets/npsp-health-2.svg" width="49%" alt="NPSP data and org health: nightly DLRS roll-ups, donation and GAU automation, CI checks.">
 </p>
 
 ## Automation & AI
