@@ -28,9 +28,18 @@ I build and run the Salesforce org for a children's charity in Kenya and its US 
 
 ## Automation & AI
 
+I build AI agents and scheduled automations that do the follow-up work. They follow the same rules as my finance systems: they only read by default, test their data before publishing, and send nothing without approval.
+
 <img src="assets/worktrail-3.svg" width="100%" alt="WorkTrail: from meeting promises to verified delivery. Records meetings, finds proof the work was done, drafts cited reports, and asks before acting.">
 
-Also: live operations dashboards built from Basecamp, Gmail and AI-usage data, and an M-Pesa sorting desk that turns SMS receipts into categorised expenses.
+<p>
+<img src="assets/it-desk-3.svg" width="49%" alt="Self-refreshing IT Desk: a Basecamp-fed dashboard that a scheduled agent checks, rebuilds and republishes twice a day.">
+<img src="assets/usage-intel-3.svg" width="49%" alt="AI usage intelligence: usage and cost tracking for a ten-person Claude team, with a web dashboard, terminal tool and Claude Code command.">
+</p>
+<p>
+<img src="assets/inbox-3.svg" width="49%" alt="Inbox Command Center: a morning briefing and action queue built from Gmail, with reply drafts for review.">
+<img src="assets/mpesa-desk-3.svg" width="49%" alt="M-Pesa Sorting Desk: SMS receipts sorted on a shared desk, then imported into expenses in one go.">
+</p>
 
 ## How I work
 
