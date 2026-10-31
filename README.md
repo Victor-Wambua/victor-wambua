@@ -1,4 +1,4 @@
-<img src="assets/header-4.svg" width="100%" alt="Sir Victor. I build the systems behind the money: payments, Salesforce, finance systems, automation and AI.">
+<img src="assets/header-5.svg" width="100%" alt="Sir Victor. I build the systems behind the money: payments, Salesforce, finance systems, automation and AI.">
 
 > Most of my code is private because it handles real people's money or belongs to clients. The cards below describe what each project does.
 
