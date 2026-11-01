@@ -1,6 +1,6 @@
 <img src="assets/header-5.svg" width="100%" alt="Sir Victor. I build the systems behind the money: payments, Salesforce, finance systems, automation and AI.">
 
-> Most of my code is private because it handles real people's money or belongs to clients. The cards below describe what each project does.
+> Most of my code is private because it handles real people's money or belongs to clients. The cards below describe what each project does, and **[the case studies](https://github.com/Victor-Wambua/case-studies)** go deeper: the problem, the design, how each is tested, and screenshots on made-up data.
 
 ## Selected work
 
@@ -55,4 +55,4 @@ I build AI agents and scheduled automations that do the follow-up work. They fol
 **Next:** Salesforce Administrator and Platform Developer I certifications.  
 **Open to:** payment integrations and nonprofit tech projects.
 
-**Reach me:** [victorwambua004@gmail.com](mailto:victorwambua004@gmail.com) · [LinkedIn](https://www.linkedin.com/in/victor-wambua)
+**Reach me:** [victorwambua004@gmail.com](mailto:victorwambua004@gmail.com) · [LinkedIn](https://www.linkedin.com/in/victor-wambua) · [Portfolio](https://victor-wambua.github.io/victor-portfolio/) · [Case studies](https://github.com/Victor-Wambua/case-studies)
