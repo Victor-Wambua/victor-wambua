@@ -55,4 +55,4 @@ I build AI agents and scheduled automations that do the follow-up work. They fol
 **Next:** Salesforce Administrator and Platform Developer I certifications.  
 **Open to:** payment integrations and nonprofit tech projects.
 
-**Reach me:** [victorwambua004@gmail.com](mailto:victorwambua004@gmail.com) · [LinkedIn](https://www.linkedin.com/in/victor-wambua) · [Portfolio](https://victor-wambua.github.io/victor-portfolio/) · [Case studies](https://github.com/Victor-Wambua/case-studies)
+**Reach me:** [victorwambua004@gmail.com](mailto:victorwambua004@gmail.com) · [LinkedIn](https://www.linkedin.com/in/victor-wambua) · [Portfolio](https://victor-wambua.github.io/victor-portfolio/) · [Case studies](https://github.com/Victor-Wambua/case-studies) · [Download CV (PDF)](https://victor-wambua.github.io/victor-portfolio/assets/cv/Victor-Wambua-CV.pdf)
